@@ -1,0 +1,29 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://techfun.backlog.jp/git/IOTCLDTF/pioneer-iotcloud-app2-server.git" />
+          <option name="userName" value="oikawa" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://pio-td.backlog.jp/git/IOTCLD_2/pioneer-iotcloud-app2-server.git" />
+          <option name="userName" value="oikawa" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://techfun.backlog.jp/git/IOTCLDTF/pioneer-iotcloud-server-config2.git" />
+          <option name="userName" value="oikawa" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://techfun.backlog.jp/git/IOTCLDTF/pioneer-iotcloud-app2-lambda.git" />
+          <option name="userName" value="oikawa" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/tami888/WebServer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="C:\dev\tami\git\" />
+  </component>
+</application>
