@@ -1,6 +1,19 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="C:/dev/tami/git/WebServer" value="2969681660446" />
+            <entry key="C:/dev/td-iot/git/pioneer-iotcloud-app2-lambda/pioneer-iotcloud-lambda-base" value="2947911684275" />
+            <entry key="C:/dev/td-iot/git/pioneer-iotcloud-app2-server/pioneer-iotcloud-api" value="1477892269376" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="true" />
       <component name="PropertiesComponent">
         <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm" />
       </component>
@@ -91,6 +104,23 @@
           <listeners />
           <method />
         </configuration>
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="C:/dev/scala/play/hello-akka" value="1490550337342" />
+            <entry key="C:/dev/scala/play/my-first-java-app" value="1490547764428" />
+            <entry key="C:/dev/scala/play/my-first-scala-app" value="1490550617411" />
+            <entry key="C:/dev/scala/sbt/basic-project" value="1489188482954" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="maximumHeapSize" value="2048" />
+        <option name="vmParameters" value="-XX:MaxPermSize=512M" />
       </component>
       <component name="masterDetails">
         <states>

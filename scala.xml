@@ -1,6 +1,8 @@
 <application>
   <component name="ScalaSettings">
-    <option name="COMPILE_SERVER_ID" value="16fd1979-a155-4bde-b0a4-81004f2c4fad" />
+    <option name="COMPILE_SERVER_ID" value="a4fe6cc4-d861-4776-b302-09d00b303c7c" />
     <option name="COMPILE_SERVER_SDK" value="1.8" />
+    <option name="COMPILE_SERVER_MAXIMUM_HEAP_SIZE" value="2048" />
+    <option name="COMPILE_SERVER_JVM_PARAMETERS" value="-server -XX:MaxPermSize=2G -Xmx2048M -XX:+CMSClassUnloadingEnabled -XX:+UseConcMarkSweepGC" />
   </component>
 </application>
