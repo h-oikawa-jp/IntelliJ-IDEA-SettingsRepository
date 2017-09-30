@@ -4,5 +4,6 @@
     <option name="COMPILE_SERVER_SDK" value="1.8" />
     <option name="COMPILE_SERVER_MAXIMUM_HEAP_SIZE" value="2048" />
     <option name="COMPILE_SERVER_JVM_PARAMETERS" value="-server -XX:MaxPermSize=2G -Xmx2048M -XX:+CMSClassUnloadingEnabled -XX:+UseConcMarkSweepGC" />
+    <option name="USE_PROJECT_HOME_AS_WORKING_DIR" value="true" />
   </component>
 </application>
